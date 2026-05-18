@@ -79,6 +79,3 @@ def main():
     print("Visite meu GitHub: github.com/[seu-usuario]")
     print("=" * 50)
 
-# Executa o programa
-if __name__ == "__main__":
-    main()
