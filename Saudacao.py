@@ -1,5 +1,5 @@
 def saudacao(nome):
-  return f'Bom dia , {nome}'
+  return f'BOM DIA , {nome}'
 
 print(saudacao('mundo'))
 
